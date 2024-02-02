@@ -1122,3 +1122,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.02-13.21.13:735][743]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.02-13.21.13:735][743]LogContentValidation: Display: Validating World /Game/Map/SkillBox.SkillBox
 [2024.02.02-13.21.13:735][743]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/SkillBox_BuiltData.SkillBox_BuiltData
+[2024.02.02-13.23.43:505][553]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.02-13.23.44:754][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-13.23.44:760][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.02.02-13.23.44:795][684]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBoxCD4AB3CA4CC545D8F0F3D29F00D0383F.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap'
+[2024.02.02-13.23.44:899][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox_BuiltData" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset" SILENT=true
+[2024.02.02-13.23.44:957][684]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBox_BuiltDataDB034AFF4E4E5B230E816F9AA06F9F5F.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset'
+[2024.02.02-13.23.44:969][684]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.02-13.23.44:969][684]LogContentValidation: Display: Validating World /Game/Map/SkillBox.SkillBox
+[2024.02.02-13.23.44:969][684]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/SkillBox_BuiltData.SkillBox_BuiltData
+[2024.02.02-13.24.21:714][ 43]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2024.02.02-13.24.22:572][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-13.24.22:577][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.02.02-13.24.22:612][127]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBox8650DA1A49E5B382E4DD899474370F84.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap'
+[2024.02.02-13.24.22:716][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox_BuiltData" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset" SILENT=true
+[2024.02.02-13.24.22:774][127]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBox_BuiltDataD832C2624C4E31EFE9222FB12C030844.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset'
+[2024.02.02-13.24.22:784][127]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.02-13.24.22:784][127]LogContentValidation: Display: Validating World /Game/Map/SkillBox.SkillBox
+[2024.02.02-13.24.22:784][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/SkillBox_BuiltData.SkillBox_BuiltData
+[2024.02.02-13.25.06:428][568]Cmd: DELETE
+[2024.02.02-13.25.06:428][568]Cmd: ACTOR DELETE
+[2024.02.02-13.25.06:432][568]LogEditorActor: Deleted Actor: Brush
+[2024.02.02-13.25.06:439][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2024.02.02-13.25.06:450][568]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2024.02.02-13.25.06:934][620]Cmd: DELETE
+[2024.02.02-13.25.06:934][620]Cmd: ACTOR DELETE
+[2024.02.02-13.25.06:938][620]LogEditorActor: Deleted Actor: Brush
+[2024.02.02-13.25.06:944][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.02-13.25.06:953][620]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.02.02-13.25.10:371][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-13.25.10:376][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.02.02-13.25.10:406][ 14]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBox90CE6E2043A078B957DF3F8CBB46EE4D.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap'
+[2024.02.02-13.25.10:515][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox_BuiltData" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset" SILENT=true
+[2024.02.02-13.25.10:570][ 14]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBox_BuiltData23C5710140CF9E6C98313C85B3CA0A84.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset'
+[2024.02.02-13.25.10:581][ 14]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.02-13.25.10:581][ 14]LogContentValidation: Display: Validating World /Game/Map/SkillBox.SkillBox
+[2024.02.02-13.25.10:581][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/SkillBox_BuiltData.SkillBox_BuiltData
