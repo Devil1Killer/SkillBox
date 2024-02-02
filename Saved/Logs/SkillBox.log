@@ -1112,3 +1112,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.02.02-13.20.10:021][479]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.02-13.20.10:021][479]LogContentValidation: Display: Validating World /Game/Map/SkillBox.SkillBox
 [2024.02.02-13.20.10:021][479]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/SkillBox_BuiltData.SkillBox_BuiltData
+[2024.02.02-13.20.50:551][670]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.02.02-13.20.50:551][670]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.02.02-13.21.13:521][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.02-13.21.13:528][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.02-13.21.13:561][743]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBoxCCAA880740BBEA5DD527FEBC5EEC4B6C.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox.umap'
+[2024.02.02-13.21.13:666][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/SkillBox_BuiltData" FILE="../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset" SILENT=true
+[2024.02.02-13.21.13:725][743]LogSavePackage: Moving '../../../../../UnrealEngineFile/SkillBox/Saved/SkillBox_BuiltDataE9D0263C464F710523DDAB98AADA5879.tmp' to '../../../../../UnrealEngineFile/SkillBox/Content/Map/SkillBox_BuiltData.uasset'
+[2024.02.02-13.21.13:735][743]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.02-13.21.13:735][743]LogContentValidation: Display: Validating World /Game/Map/SkillBox.SkillBox
+[2024.02.02-13.21.13:735][743]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Map/SkillBox_BuiltData.SkillBox_BuiltData
